@@ -135,7 +135,7 @@ main {
     position: relative;
     width: 100%;
     padding-top: 56.25%; /* 16:9 Aspect Ratio */
-    background: url('screencapture-mitolyn-welcome-2026-03-11-20_48_28.png') no-repeat center top;
+    background: url('Thumbnail.webp') no-repeat center top;
     background-size: cover;
     border-radius: 12px;
     box-shadow: 0 8px 25px rgba(0,0,0,0.15);
